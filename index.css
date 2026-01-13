@@ -1,0 +1,16 @@
+html, body, #root {
+  height: 100%;
+}
+
+::selection {
+  background: rgba(110, 168, 254, 0.25);
+}
+
+hr {
+  border: none;
+  border-top: 1px solid rgba(231, 238, 252, 0.12);
+}
+
+code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
